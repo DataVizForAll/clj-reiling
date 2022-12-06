@@ -1,8 +1,8 @@
 # dataviz-story-template
 DataVizForAll.org story template using modified Bootstrap
 
-## Live view (replace with your own published link in Settings > Pages)
-https://jackr1515.github.io/Jack-R-Story/
+## Live view 
+https://datavizforall.org/clj-reiling
 
-## Instructions
-Read steps inside the `index.html` file
+## forked from 
+https://github.com/jackr1515/Jack-R-Story/
